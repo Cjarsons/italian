@@ -1,8 +1,8 @@
 languative.modifyDictionary("it", {
 	title : "Kare wa Kanojo (彼は彼女)",
-	subtitle : "One boy, three girls, what could possibly happen?",
-	download : "Download here!",
-	resume : "Summer of Heisei period 9 (1997), you play as a young boy who just moved to a small village near Osaka. You will meet three girls in this new school. One of them keeps a really deep secret… What secret? Well, if you can decode the title, you’ll guess it…",
+	subtitle : "Un ragazzo, tre ragazze, cosa potrebbe accadere?",
+	download : "Scarica qui!",
+	resume : "Nel 1997, sei un ragazzino che si è appena trasferito in un piccolo villaggio vicino ad Osaka. Incontrerai tre ragazze in questa nuova scuola. Uno di loro conserva un vero segreto... Che segreto? Bene, se puoi decodificare il titolo, lo indovinerai...",
 	desc : '"There she he’s" (can also be called "Kare wa Kanojo", "KWK" or "彼は彼女") is a free independent visual novel made in Ren’Py.<br />"Kare wa Kanojo’s project started in 2011. Originally, it was a side project meant to try the basics of Ren’Py, the engine used for this game. One week was enough to write the entire script, and several weeks to compose and sequence the soundtrack. Alas, the first release was in beta for 3 main reasons: I’m not natively english ; my drawing skills are poor ; and the game was a bit rushed up.<br />Finally, thanks to the help of a great graphic artist, some generous translations contributors and the love the players gave to the game despite its hideous look, the project could grow even better, even bigger. Today, the story includes 3 different routes (instead of originally 2) where your choices can have an impact on the next events! And all of this with better graphics and in HD 1080p!<br />I would like to thank not only the contributors, but also all the people who supported the game. I deeply hope this new release will satisfy them. And maybe, why not, I will find the inspiration to write a sequel to the game?',
 	accroche1 : "A touching but surprising story with 3 possible endings",
 	girlstitle : "Meet the girls!",
