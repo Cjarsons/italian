@@ -14,94 +14,6 @@ translate italian strings:
     old "{b}Japanese lyrics:{/b}\n"
     new "{b}Japanese lyrics:{/b}\n"
 
-    # omake.rpy:93
-    old "あなたがを私の手をとるとき空さえ飛べる気がする"
-    new "あなたがを私の手をとるとき空さえ飛べる気がする"
-
-    # omake.rpy:94
-    old "わたしがあなたの目に映るとき幸せに満たされる\n"
-    new "わたしがあなたの目に映るとき幸せに満たされる\n"
-
-    # omake.rpy:95
-    old "私たちは違って見えても"
-    new "私たちは違って見えても"
-
-    # omake.rpy:96
-    old "けれども私のハートはドキドキ\n"
-    new "けれども私のハートはドキドキ\n"
-
-    # omake.rpy:97
-    old "男の子と女の子"
-    new "男の子と女の子"
-
-    # omake.rpy:98
-    old "ただの人間です"
-    new "ただの人間です"
-
-    # omake.rpy:99
-    old "気にしないこと"
-    new "気にしないこと"
-
-    # omake.rpy:100
-    old "気持ちをコントロールできない"
-    new "気持ちをコントロールできない"
-
-    # omake.rpy:101
-    old "COME TO ME, TAKE MY HEART"
-    new "COME TO ME, TAKE MY HEART"
-
-    # omake.rpy:102
-    old "あなたに捧げる"
-    new "あなたに捧げる"
-
-    # omake.rpy:103
-    old "何があっても 私はあなたを愛してる"
-    new "何があっても 私はあなたを愛してる"
-
-    # omake.rpy:108
-    old "{b}Romaji:{/b}\n"
-    new "{b}Romaji:{/b}\n"
-
-    # omake.rpy:109
-    old "Anata ga o watashi no te o toru toki sora sae toberu ki ga suru"
-    new "Anata ga o watashi no te o toru toki sora sae toberu ki ga suru"
-
-    # omake.rpy:110
-    old "Watashi ga anata no me ni utsuru toki shiawase ni mitasareru\n"
-    new "Watashi ga anata no me ni utsuru toki shiawase ni mitasareru\n"
-
-    # omake.rpy:111
-    old "Watashitachi wa chigatte miete mo"
-    new "Watashitachi wa chigatte miete mo"
-
-    # omake.rpy:112
-    old "Keredomo watashi no HEART wa dokidoki\n"
-    new "Keredomo watashi no HEART wa dokidoki\n"
-
-    # omake.rpy:113
-    old "Otokonoko to on'nanoko"
-    new "Otokonoko to on'nanoko"
-
-    # omake.rpy:114
-    old "Tada no ningen desu"
-    new "Tada no ningen desu"
-
-    # omake.rpy:115
-    old "Kinishinai koto"
-    new "Kinishinai koto"
-
-    # omake.rpy:116
-    old "Kimochi o kontororu dekinai"
-    new "Kimochi o kontororu dekinai"
-
-    # omake.rpy:118
-    old "Anata ni sasageru"
-    new "Anata ni sasageru"
-
-    # omake.rpy:119
-    old "Naniga attemo watashi wa anata wo aishiteru"
-    new "Naniga attemo watashi wa anata wo aishiteru"
-
     # omake.rpy:124
     old "{b}Translation:{/b}\n"
     new "{b}Translation:{/b}\n"
@@ -321,4 +233,3 @@ translate italian strings:
     # omake.rpy:267
     old "{image=chars/n-1-3.png}"
     new "{image=chars/n-1-3.png}"
-
