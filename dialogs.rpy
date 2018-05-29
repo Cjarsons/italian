@@ -4,97 +4,97 @@
 translate italian scene1_acf2102c:
 
     # centered "{size=+12}Summer of the 9th year of Heisei era\n(1997){/size}"
-    centered "{size=+12}Summer of the 9th year of Heisei era\n(1997){/size}"
+    centered "{size=+12}Estate del 9° anno della era Heisei\n(1997){/size}"
 
 # game/dialogs.rpy:6
 translate italian scene1_dd8c4dd5:
 
     # "Life has a way of changing. Often drastically without any warnings whatsoever."
-    "Life has a way of changing. Often drastically without any warnings whatsoever."
+    "La vita ha uno strano modo di cambiare. Spesso drasticamente senza alcun tipo di avvertimento."
 
 # game/dialogs.rpy:7
 translate italian scene1_0497b746:
 
     # "At first, a day may seem like any other."
-    "At first, a day may seem like any other."
+    "All'inizio, un giorno può sembrare come ogni altro."
 
 # game/dialogs.rpy:8
 translate italian scene1_1ab3b689:
 
     # "But by tomorrow, it can all change...{p}from where you live, to who you are as a person."
-    "But by tomorrow, it can all change...{p}from where you live, to who you are as a person."
+    "Ma da domani, tutto può cambiare...{p}da dove vivi, a chi sei come persona."
 
 # game/dialogs.rpy:9
 translate italian scene1_522a76b6:
 
     # "Recently, I've experienced such a large change."
-    "Recently, I've experienced such a large change."
+    "Recentemente, ho sperimentato un così grande cambiamento."
 
 # game/dialogs.rpy:10
 translate italian scene1_011ea937:
 
     # "My dad wanted to start his own grocery shop. So my parents and I moved to a small village near Osaka."
-    "My dad wanted to start his own grocery shop. So my parents and I moved to a small village near Osaka."
+    "Mio papà ha voluto aprire la sua drogheria. Quindi i miei genitori ed io ci siamo trasferiti in un piccolo villaggio vicino ad Osaka."
 
 # game/dialogs.rpy:11
 translate italian scene1_2b371705:
 
     # "I thought I would have a hard time readjusting."
-    "I thought I would have a hard time readjusting."
+    "Io ho pensato che avrei avuto difficolta a risistemarmi."
 
 # game/dialogs.rpy:12
 translate italian scene1_a26a5f2b:
 
     # "The move from Tokyo to a small lost village, far from a big city with shops and fast-food restaurants..."
-    "The move from Tokyo to a small lost village, far from a big city with shops and fast-food restaurants..."
+    "Il muoversi da Tokyo ad un piccolo villagio perduto, lontano da una grande città con negozi e fast-food..."
 
 # game/dialogs.rpy:13
 translate italian scene1_fa8a1f18:
 
     # "Being a 18-year-old student, it would be difficult. I was used to the excitement of the big city."
-    "Being a 18-year-old student, it would be difficult. I was used to the excitement of the big city."
+    "Essendo uno studente di 18 anni, sarà difficile. Io ero abituato al divertimento di una grande città."
 
 # game/dialogs.rpy:14
 translate italian scene1_8d6f1c40:
 
     # "However, even before my first day of school, my life would change."
-    "However, even before my first day of school, my life would change."
+    "Però, anche prima del mio primo giorno di scuola, la mia vita cambierà."
 
 # game/dialogs.rpy:19
 translate italian scene1_d7a7c4a2:
 
     # centered "{size=+35}CHAPTER 1\nWhere everything started{fast}{/size}"
-    centered "{size=+35}CHAPTER 1\nWhere everything started{fast}{/size}"
+    centered "{size=+35}CAPITOLO 1\nDove tutto è iniziato{fast}{/size}"
 
 # game/dialogs.rpy:26
 translate italian scene1_5bb0286e:
 
     # "It's sunday evening, after dinner."
-    "It's sunday evening, after dinner."
+    "È domenica sera, dopo la cena."
 
 # game/dialogs.rpy:27
 translate italian scene1_a651e12e:
 
     # "My stuff is all unpacked and placed in my new room."
-    "My stuff is all unpacked and placed in my new room."
+    "Le mie cose sono tutte spacchettate e piazzate nella mia nuova stanza."
 
 # game/dialogs.rpy:28
 translate italian scene1_54a8b155:
 
     # "I love this new look!"
-    "I love this new look!"
+    "Amo questo nuovo aspetto!"
 
 # game/dialogs.rpy:29
 translate italian scene1_8bb96761:
 
     # "It sure is smaller than my previous bedroom, but it's not like I needed that much space."
-    "It sure is smaller than my previous bedroom, but it's not like I needed that much space."
+    "È sicuramente più piccolo della mia precedente camera da letto, ma non è che necessito di tutto quel spazio."
 
 # game/dialogs.rpy:30
 translate italian scene1_acf53d85:
 
     # "As long as I have room to sleep, play games, watch anime, and geek out, it's all good."
-    "As long as I have room to sleep, play games, watch anime, and geek out, it's all good."
+    "Finchè ho una stanza per dormire, giocare games, guardare anime, and geek out, it's all good."
 
 # game/dialogs.rpy:31
 translate italian scene1_7d722416:
