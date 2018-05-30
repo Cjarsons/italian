@@ -40,13 +40,13 @@ translate italian scene1_011ea937:
 translate italian scene1_2b371705:
 
     # "I thought I would have a hard time readjusting."
-    "Io ho pensato che avrei avuto difficolta a risistemarmi."
+    "Ho pensato che avrei avuto difficolta a risistemarmi."
 
 # game/dialogs.rpy:12
 translate italian scene1_a26a5f2b:
 
     # "The move from Tokyo to a small lost village, far from a big city with shops and fast-food restaurants..."
-    "Il muoversi da Tokyo ad un piccolo villagio perduto, lontano da una grande città con negozi e fast-food..."
+    "Il muoversi da Tokyo ad un piccolo villagio sperduto, lontano da una grande città con negozi e fast-food..."
 
 # game/dialogs.rpy:13
 translate italian scene1_fa8a1f18:
@@ -88,103 +88,103 @@ translate italian scene1_54a8b155:
 translate italian scene1_8bb96761:
 
     # "It sure is smaller than my previous bedroom, but it's not like I needed that much space."
-    "È sicuramente più piccolo della mia precedente camera da letto, ma non è che necessito di tutto quel spazio."
+    "È sicuramente più piccolo della mia precedente camera da letto, ma non è che necessito di tutto questo spazio."
 
 # game/dialogs.rpy:30
 translate italian scene1_acf53d85:
 
     # "As long as I have room to sleep, play games, watch anime, and geek out, it's all good."
-    "Finchè ho una stanza per dormire, giocare games, guardare anime, and geek out, it's all good."
+    "Finchè ho una stanza per dormire, giocare videogiochi, guardare anime, e trafficare con il computer, è tutto ok."
 
 # game/dialogs.rpy:31
 translate italian scene1_7d722416:
 
     # "I'm not sure what I should do before going to bed."
-    "I'm not sure what I should do before going to bed."
+    "Non sono sicuro su cosa dovrei fare prima di andare a dormire."
 
 # game/dialogs.rpy:32
 translate italian scene1_b2b74adf:
 
     # "I could study a bit, so I don't look too dumb at school tomorrow..."
-    "I could study a bit, so I don't look too dumb at school tomorrow..."
+    "Potrei studiare un po', quindi non sembrerò troppo stupido a scuola domani..."
 
 # game/dialogs.rpy:33
 translate italian scene1_ad0d9f75:
 
     # "But I also want to rest and have a bit of fun..."
-    "But I also want to rest and have a bit of fun..."
+    "Ma voglio anche riposare ed avere un po' di divertimento..."
 
 # game/dialogs.rpy:48
 translate italian scene1_e05b5690:
 
     # "I should play a short game, or I'll stay up too long. So I decide to play some {i}Tetranet online{/i}."
-    "I should play a short game, or I'll stay up too long. So I decide to play some {i}Tetranet online{/i}."
+    "Dovrei giocare ad un gioco breve, o starò alzato troppo a lungo. Quindi decido di giocare per un po' a {i}Tetranet online{/i}."
 
 # game/dialogs.rpy:49
 translate italian scene1_7170a1ff:
 
     # "It's a puzzle game with blocks. The online version lets you attack your opponents and flood them with their own blocks."
-    "It's a puzzle game with blocks. The online version lets you attack your opponents and flood them with their own blocks."
+    "È videogioco rompicapo con i blocchi. La versione online ti permette di attaccare il tuo avversario e sommergerli con i loro blocchi."
 
 # game/dialogs.rpy:50
 translate italian scene1_8dd01706:
 
     # "After a few minutes, I found myself in a game room. One of the players named 'NAMINAMI' had two stars in front of their name."
-    "After a few minutes, I found myself in a game room. One of the players named 'NAMINAMI' had two stars in front of their name."
+    "Dopo pochi minuti, mi ritrovo in una stanza di gioco. Uno dei giocatori di nome 'NAMINAMI' aveva due stelle prima del proprio nome."
 
 # game/dialogs.rpy:51
 translate italian scene1_962ec706:
 
     # "Two stars meant that they had won hundreds of games online. Since three stars are for the game developers, I guess that means I'm up against a pro of this game."
-    "Two stars meant that they had won hundreds of games online. Since three stars are for the game developers, I guess that means I'm up against a pro of this game."
+    "Due stelle significava che aveva vinto centinaia di partite online. Siccome tre stelle sono per gli sviluppatori del gioco, penso che significhi di trovarmi contro un professionista di questo videogioco."
 
 # game/dialogs.rpy:52
 translate italian scene1_a71313b4:
 
     # "Judging by the low ping, I guess they live around the same prefecture I live in. Small world..."
-    "Judging by the low ping, I guess they live around the same prefecture I live in. Small world..."
+    "Giudicando dal ping basso, penso che debba vivere attorno alla stessa prefettura in cui vivo io. Il mondo è piccolo..."
 
 # game/dialogs.rpy:53
 translate italian scene1_e0301d9f:
 
     # "In the dozens of games we played, NAMINAMI continued to beat everyone in the game room. But I was always the last one to fall."
-    "In the dozens of games we played, NAMINAMI continued to beat everyone in the game room. But I was always the last one to fall."
+    "In dozzine di partite che abbiamo giocato, NAMINAMI continuò a battere chiunque nella stanza di gioco. Ma ero sempre l'ultimo a cadere."
 
 # game/dialogs.rpy:55
 translate italian scene1_a40571de:
 
     # write "NAMINAMI> GG dude, u pretty much rock at this game!{fast}"
-    write "NAMINAMI> GG dude, u pretty much rock at this game!{fast}"
+    scrive "NAMINAMI> bella partita, spacchi di brutto a questo videogioco!{fast}"
 
 # game/dialogs.rpy:57
 translate italian scene1_7c6f0607:
 
     # write "%(stringhero)s>{fast} Nah i'm not that good"
-    write "%(stringhero)s>{fast} Nah i'm not that good"
+    scrive "%(stringhero)s>{fast} Nah non sono così bravo"
 
 # game/dialogs.rpy:59
 translate italian scene1_0d6dddc9:
 
     # write "NAMINAMI> yes u r. i had trouble winning against u.{fast}"
-    write "NAMINAMI> yes u r. i had trouble winning against u.{fast}"
+    scrive "NAMINAMI> si lo sei. Ho avuto problemi a vincere contro di te.{fast}"
 
 # game/dialogs.rpy:61
 translate italian scene1_87ab3c60:
 
     # write "NAMINAMI> care 4 a rematch? just u and me?{fast}"
-    write "NAMINAMI> care 4 a rematch? just u and me?{fast}"
+    scrive "NAMINAMI> ti va una rivincita? solo tu ed io?{fast}"
 
 # game/dialogs.rpy:63
 translate italian scene1_828e7297:
 
     # write "%(stringhero)s>{fast} Maybe next time. It's getting late, i have school tomorrow."
-    write "%(stringhero)s>{fast} Maybe next time. It's getting late, i have school tomorrow."
+    scrive "%(stringhero)s>{fast} Forse la prossima volta. Sta diventando tardi, devo andare a scuola domani."
 
 # game/dialogs.rpy:65
 translate italian scene1_0d8de120:
 
     # write "NAMINAMI> ur rite, me 2 anyway. hope 2 c u again soon!{fast}"
-    write "NAMINAMI> ur rite, me 2 anyway. hope 2 c u again soon!{fast}"
+    scrive "NAMINAMI> hai ragione, anche io comunque. Spero di vederti di nuovo presto!{fast}"
 
 # game/dialogs.rpy:66
 translate italian scene1_76b2fe88:
@@ -196,31 +196,31 @@ translate italian scene1_76b2fe88:
 translate italian scene1_ee02f0bc:
 
     # "I decide to watch some old episodes of the anime based on my favorite manga, {i}High School Samurai{/i}."
-    "I decide to watch some old episodes of the anime based on my favorite manga, {i}High School Samurai{/i}."
+    "Ho deciso di guardare qualche vecchio episodio di un anime basato sul mio fumetto preferito, {i}High School Samurai{/i}."
 
 # game/dialogs.rpy:74
 translate italian scene1_d91b4fcd:
 
     # "It's the story about a guy who lived in the mountains, learning the ways of Bushido. Then, all of a sudden, he must go to a new town to learn about life in the city."
-    "It's the story about a guy who lived in the mountains, learning the ways of Bushido. Then, all of a sudden, he must go to a new town to learn about life in the city."
+    "È la storia di un uomo che ha vissuto nelle montagne, imparando gli insegnamenti del Bushido. Quindi, improvvisamente, deve andare in una nuovo paese per imarare riguardo alla vita in una città."
 
 # game/dialogs.rpy:75
 translate italian scene1_e72d0922:
 
     # "He resolves a lot of his problems with his samurai skills and his heroic determination."
-    "He resolves a lot of his problems with his samurai skills and his heroic determination."
+    "Risolve molti  dei suoi problemi con la sua abilità di samurai e la sua determinazione eroica."
 
 # game/dialogs.rpy:80
 translate italian scene1_a19cfb71:
 
     # hero "I decide to study. Keep up the great work, %(stringhero)s!"
-    hero "I decide to study. Keep up the great work, %(stringhero)s!"
+    hero "Ho deciso di studiare. È ora di mettersi a lavoro, %(stringhero)s!"
 
 # game/dialogs.rpy:82
 translate italian scene1_ad5fbe82:
 
     # "I studied until very late at night."
-    "I studied until very late at night."
+    "Ho studiato fino a notte molto tarda."
 
 # game/dialogs.rpy:84
 translate italian scene1_2f455d53:
