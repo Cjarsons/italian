@@ -28,7 +28,7 @@ translate italian scene1_1ab3b689:
 translate italian scene1_522a76b6:
 
     # "Recently, I've experienced such a large change."
-    "Recentemente, ho sperimentato un così grande cambiamento."
+    "Recentemente, ho sperimentato un cambiamento così grande."
 
 # game/dialogs.rpy:10
 translate italian scene1_011ea937:
@@ -88,13 +88,13 @@ translate italian scene1_54a8b155:
 translate italian scene1_8bb96761:
 
     # "It sure is smaller than my previous bedroom, but it's not like I needed that much space."
-    "È sicuramente più piccolo della mia precedente camera da letto, ma non è che necessito di tutto questo spazio."
+    "È sicuramente più piccola della mia precedente camera da letto, ma non è che necessito di tutto questo spazio."
 
 # game/dialogs.rpy:30
 translate italian scene1_acf53d85:
 
     # "As long as I have room to sleep, play games, watch anime, and geek out, it's all good."
-    "Finchè ho una stanza per dormire, giocare videogiochi, guardare anime, e trafficare con il computer, è tutto ok."
+    "Finchè ho una stanza per dormire, giocare con i videogiochi, guardare anime, e trafficare con il computer, è tutto ok."
 
 # game/dialogs.rpy:31
 translate italian scene1_7d722416:
@@ -106,25 +106,25 @@ translate italian scene1_7d722416:
 translate italian scene1_b2b74adf:
 
     # "I could study a bit, so I don't look too dumb at school tomorrow..."
-    "Potrei studiare un po', quindi non sembrerò troppo stupido a scuola domani..."
+    "Potrei studiare un po', così non sembrerò troppo stupido a scuola domani..."
 
 # game/dialogs.rpy:33
 translate italian scene1_ad0d9f75:
 
     # "But I also want to rest and have a bit of fun..."
-    "Ma voglio anche riposare ed avere un po' di divertimento..."
+    "Ma voglio anche riposare e divertirmi un po'..."
 
 # game/dialogs.rpy:48
 translate italian scene1_e05b5690:
 
     # "I should play a short game, or I'll stay up too long. So I decide to play some {i}Tetranet online{/i}."
-    "Dovrei giocare ad un gioco breve, o starò alzato troppo a lungo. Quindi decido di giocare per un po' a {i}Tetranet online{/i}."
+    "Dovrei giocare ad un videogioco breve, o starò alzato troppo a lungo. Quindi decido di giocare per un po' a {i}Tetranet online{/i}."
 
 # game/dialogs.rpy:49
 translate italian scene1_7170a1ff:
 
     # "It's a puzzle game with blocks. The online version lets you attack your opponents and flood them with their own blocks."
-    "È videogioco rompicapo con i blocchi. La versione online ti permette di attaccare il tuo avversario e sommergerli con i loro blocchi."
+    "È videogioco rompicapo con i blocchi. La versione online ti permette di attaccare i tuoi avversari e sommergerli con i loro blocchi."
 
 # game/dialogs.rpy:50
 translate italian scene1_8dd01706:
@@ -178,13 +178,13 @@ translate italian scene1_87ab3c60:
 translate italian scene1_828e7297:
 
     # write "%(stringhero)s>{fast} Maybe next time. It's getting late, i have school tomorrow."
-    scrive "%(stringhero)s>{fast} Forse la prossima volta. Sta diventando tardi, devo andare a scuola domani."
+    scrive "%(stringhero)s>{fast} Forse la prossima volta. È piuttosto tardi, devo andare a scuola domani."
 
 # game/dialogs.rpy:65
 translate italian scene1_0d8de120:
 
     # write "NAMINAMI> ur rite, me 2 anyway. hope 2 c u again soon!{fast}"
-    scrive "NAMINAMI> hai ragione, anche io comunque. Spero di vederti di nuovo presto!{fast}"
+    scrive "NAMINAMI> hai ragione, anche io comunque. Spero di vederti di presto nuovo!{fast}"
 
 # game/dialogs.rpy:66
 translate italian scene1_76b2fe88:
@@ -202,7 +202,7 @@ translate italian scene1_ee02f0bc:
 translate italian scene1_d91b4fcd:
 
     # "It's the story about a guy who lived in the mountains, learning the ways of Bushido. Then, all of a sudden, he must go to a new town to learn about life in the city."
-    "È la storia di un uomo che ha vissuto nelle montagne, imparando gli insegnamenti del Bushido. Quindi, improvvisamente, deve andare in una nuovo paese per imarare riguardo alla vita in una città."
+    "È la storia di un uomo che ha vissuto nelle montagne, imparando gli insegnamenti del Bushido. Quindi, improvvisamente, deve andare in una nuovo paese per conoscere com'è la vita in una città."
 
 # game/dialogs.rpy:75
 translate italian scene1_e72d0922:
@@ -226,7 +226,7 @@ translate italian scene1_ad5fbe82:
 translate italian scene1_2f455d53:
 
     # "I don't know how long I stayed up, but I was so tired, I ended up falling asleep..."
-    "I don't know how long I stayed up, but I was so tired, I ended up falling asleep..."
+    "Non so quanto a lungo sono stato alzato, ma ero così stanco, che ho finito per addormentarmi..."
 
 # game/dialogs.rpy:89
 translate italian scene1_cb77d3d7:
@@ -238,259 +238,259 @@ translate italian scene1_cb77d3d7:
 translate italian scene1_4037429a:
 
     # "I switched off the alarm clock and went back to sleep again."
-    "I switched off the alarm clock and went back to sleep again."
+    "Ho spento l'allarme della sveglia e sono tornato a dormire di nuovo."
 
 # game/dialogs.rpy:92
 translate italian scene1_548721a3:
 
     # hero "I'm so tired..."
-    hero "I'm so tired..."
+    hero "Sono così stanco..."
 
 # game/dialogs.rpy:93
 translate italian scene1_2a13d6dc:
 
     # "Mom" "%(stringhero)s!! Wake up!!! You'll be late for school!!!"
-    "Mom" "%(stringhero)s!! Wake up!!! You'll be late for school!!!"
+    "Mom" "%(stringhero)s!! Svegliati!!! Farai tardi a scuola!!!"
 
 # game/dialogs.rpy:94
 translate italian scene1_c83937b9:
 
     # hero "Huh... What time is it..."
-    hero "Huh... What time is it..."
+    hero "Huh... Che ora è..."
 
 # game/dialogs.rpy:95
 translate italian scene1_fc1e319f:
 
     # "Wait... 8:02AM?!{p} School starts at 8:30AM!!!"
-    "Wait... 8:02AM?!{p} School starts at 8:30AM!!!"
+    "Aspetta... 8:02AM?!{p} La scuola comincia alle 8:30AM!!!"
 
 # game/dialogs.rpy:97
 translate italian scene1_4217b105:
 
     # hero "Dangit!"
-    hero "Dangit!"
+    hero "Dannazione!"
 
 # game/dialogs.rpy:99
 translate italian scene1_62c6f195:
 
     # hero "I stayed up and played too much! I'm late!"
-    hero "I stayed up and played too much! I'm late!"
+    hero "Sono stato alzato e ho giocato troppo a lungo! Sono tardi!"
 
 # game/dialogs.rpy:101
 translate italian scene1_b8605e00:
 
     # hero "I watched too much anime! I'm late!"
-    hero "I watched too much anime! I'm late!"
+    hero "Ho guardato troppi anime! Sono tardi!"
 
 # game/dialogs.rpy:103
 translate italian scene1_a476aee9:
 
     # hero "I studied too much! I'm late!"
-    hero "I studied too much! I'm late!"
+    hero "Ho studiato troppo! Sono tardi!"
 
 # game/dialogs.rpy:106
 translate italian scene1_0ff90bcf:
 
     # "I jumped out of bed, put on my brand new school uniform, and ran down the stairs."
-    "I jumped out of bed, put on my brand new school uniform, and ran down the stairs."
+    "Sono saltato fuori dal letto, ho indossato la mia uniforme scolastica nuova, e sono corso giù per le scale."
 
 # game/dialogs.rpy:108
 translate italian scene1_5c1508de:
 
     # "I ate my breakfast faster than usual."
-    "I ate my breakfast faster than usual."
+    "Ho mangiato la mia colazione più in fretta del solito."
 
 # game/dialogs.rpy:109
 translate italian scene1_6a44f1a3:
 
     # "I took a map with a route to school and left after saying goodbye to my parents."
-    "I took a map with a route to school and left after saying goodbye to my parents."
+    "ho preso la mappa con la strada per la scuola e me ne sono andato dopo aver salutato i miei genitori."
 
 # game/dialogs.rpy:112
 translate italian scene1_ad63def5:
 
     # "I followed the map and dashed through the streets."
-    "I followed the map and dashed through the streets."
+    "Ho seguito la mappa correndo attraverso le strade."
 
 # game/dialogs.rpy:113
 translate italian scene1_00e59ce7:
 
     # "This town looks pretty unique."
-    "This town looks pretty unique."
+    "Questo paese sembra piuttosto unico."
 
 # game/dialogs.rpy:114
 translate italian scene1_689e5094:
 
     # "It's a strange town, like a mix between a suburb and a rural village."
-    "It's a strange town, like a mix between a suburb and a rural village."
+    "È un paese strano, come un incrocio tra un sobborgo ed un villagio rurale."
 
 # game/dialogs.rpy:115
 translate italian scene1_a64e7e8b:
 
     # "Summer had just arrived. The cicadas were crying. And it sure was hot out here..."
-    "Summer had just arrived. The cicadas were crying. And it sure was hot out here..."
+    "L'estate è appena arrivata. Le cicale stavano frinendo. E di certo faceva caldo quì fuori..."
 
 # game/dialogs.rpy:116
 translate italian scene1_71061539:
 
     # "I noticed only a few people on the streets."
-    "I noticed only a few people on the streets."
+    "Ho notato solo poche persone per le strade."
 
 # game/dialogs.rpy:117
 translate italian scene1_1d275b47:
 
     # "Some of them were kind enough to help me find my way to the school..."
-    "Some of them were kind enough to help me find my way to the school..."
+    "Alcune di loro erano gentili abbastanza da aiutarmi a trovare la strada per la scuola..."
 
 # game/dialogs.rpy:118
 translate italian scene1_e123d412:
 
     # "Then, as I was nearing an intersection..."
-    "Then, as I was nearing an intersection..."
+    "Quindi, mentre mi stavo avvicinando ad un incrocio..."
 
 # game/dialogs.rpy:119
 translate italian scene1_da3e8686:
 
     # "I see a girl in a school uniform."
-    "I see a girl in a school uniform."
+    "Vedo una ragazza in uniforme scolastica."
 
 # game/dialogs.rpy:121
 translate italian scene1_72d48eb1:
 
     # hero "Well, since village only has one school...that must be where she's heading!"
-    hero "Well, since village only has one school...that must be where she's heading!"
+    hero "Bene, siccome il villaggio ha solo una scuola...dev'essere lì che sta andando!"
 
 # game/dialogs.rpy:122
 translate italian scene1_018ee7a3:
 
     # hero "And if that is where she's going, maybe she could help me out!"
-    hero "And if that is where she's going, maybe she could help me out!"
+    hero "E se sta andando lì, forse può aiutarmi!"
 
 # game/dialogs.rpy:123
 translate italian scene1_a95f40e0:
 
     # "I approached her carefully, as I didn't want to scare her."
-    "I approached her carefully, as I didn't want to scare her."
+    "mi sono avvicinato con cautela, poiché non volevo spaventarla."
 
 # game/dialogs.rpy:124
 translate italian scene1_b0e8ce5c:
 
     # "She looked beautiful; long black hair, thin body, and beautiful legs..."
-    "She looked beautiful; long black hair, thin body, and beautiful legs..."
+    "È bellissima; capelli neri lunghi, magra di corporatura, e gambe bellissime..."
 
 # game/dialogs.rpy:125
 translate italian scene1_d501d47f:
 
     # "I hesitated for a moment before saying anything..."
-    "I hesitated for a moment before saying anything..."
+    "Ho esitato un momento prima di dire qualcosa..."
 
 # game/dialogs.rpy:126
 translate italian scene1_9195ee62:
 
     # hero "Ahem... Excuse me, miss?"
-    hero "Ahem... Excuse me, miss?"
+    hero "Ahem... Mi scusi, Signorina?"
 
 # game/dialogs.rpy:131
 translate italian scene1_951b2409:
 
     # "She turned around to face me."
-    "She turned around to face me."
+    "Si è voltata per guardarmi."
 
 # game/dialogs.rpy:132
 translate italian scene1_b7723325:
 
     # "Oh wow! She was insanely pretty!"
-    "Oh wow! She was insanely pretty!"
+    "Oh wow! Era bella da impazzire!"
 
 # game/dialogs.rpy:133
 translate italian scene1_64e26830:
 
     # "Her eyes were blue.{p}A wonderful, deep, ocean blue. They were like the clear waters you'd find in Hawaii!"
-    "Her eyes were blue.{p}A wonderful, deep, ocean blue. They were like the clear waters you'd find in Hawaii!"
+    "I suoi occhi erano blu.{p}Un bellissimo, profondo, blu oceano. erano come le acque cristalline che trovi alle Hawaii!"
 
 # game/dialogs.rpy:134
 translate italian scene1_a28c7063:
 
     # "She looked at me, confused, and a bit timid."
-    "She looked at me, confused, and a bit timid."
+    "Mi ha guardato, confusa, ed un po' timida."
 
 # game/dialogs.rpy:136
 translate italian scene1_40d86de1:
 
     # s "Yes?"
-    s "Yes?"
+    s "Si?"
 
 # game/dialogs.rpy:137
 translate italian scene1_013ed851:
 
     # "Wow! Her voice sounds so adorable!"
-    "Wow! Her voice sounds so adorable!"
+    "Wow! La sua voce suona così adorabile!"
 
 # game/dialogs.rpy:138
 translate italian scene1_ed63afd9:
 
     # "She is so cute, that I was at a loss for words."
-    "She is so cute, that I was at a loss for words."
+    "È così carina, che ero rimasto senza parole."
 
 # game/dialogs.rpy:139
 translate italian scene1_d015b36e:
 
     # hero "Uhhh... I'm new in the village, and I'm trying to find my school."
-    hero "Uhhh... I'm new in the village, and I'm trying to find my school."
+    hero "Uhhh... Sono nuovo nel villagio, e sto cercando di trovare la mia scuola."
 
 # game/dialogs.rpy:140
 translate italian scene1_759f29b6:
 
     # hero "And since you're wearing a uniform... I thought you could..."
-    hero "And since you're wearing a uniform... I thought you could..."
+    hero "E siccome tu stai indossando un uniforme... pensavo che tu potessi..."
 
 # game/dialogs.rpy:141
 translate italian scene1_9c182eb6:
 
     # "The girl stared at me with her big, majestic, blue eyes..."
-    "The girl stared at me with her big, majestic, blue eyes..."
+    "La ragazza mi fissò con i suoi grandi, maestosi, occhi blue..."
 
 # game/dialogs.rpy:142
 translate italian scene1_e85ec319:
 
     # "Finally, she smiled."
-    "Finally, she smiled."
+    "Finalmente, ha sorriso."
 
 # game/dialogs.rpy:144
 translate italian scene1_208138e6:
 
     # s "Of course I can!"
-    s "Of course I can!"
+    s "Certo che posso!"
 
 # game/dialogs.rpy:145
 translate italian scene1_d94b34fa:
 
     # s "I'm going there right now. You can follow me!"
-    s "I'm going there right now. You can follow me!"
+    s "Sto andando là proprio ora. Puoi seguirmi!"
 
 # game/dialogs.rpy:146
 translate italian scene1_453ef329:
 
     # hero "That would be great! Thank you!"
-    hero "That would be great! Thank you!"
+    hero "Questo sarebbe grandioso! Grazie!"
 
 # game/dialogs.rpy:150
 translate italian scene1_ef8271d0:
 
     # "We ended up walking to school together."
-    "We ended up walking to school together."
+    "Siamo finiti ad andare a scuola assieme."
 
 # game/dialogs.rpy:151
 translate italian scene1_e8a9e895:
 
     # "Darn, looks like it's my lucky day. {p}I'm walking to school with a beautiful girl on the first day!!!"
-    "Darn, looks like it's my lucky day. {p}I'm walking to school with a beautiful girl on the first day!!!"
+    "Accidenti, sembra che sia il mio giorno fortunato. {p}Nel primo giorno di scuola ci sto andando con una bellissima ragazza !!!"
 
 # game/dialogs.rpy:152
 translate italian scene1_cb9f5aad:
 
     # s "You said you're new in town, right?"
-    s "You said you're new in town, right?"
+    s "Tu hai detto di essere nuovo nel paese, giusto?"
 
 # game/dialogs.rpy:153
 translate italian scene1_36317276:
@@ -502,139 +502,139 @@ translate italian scene1_36317276:
 translate italian scene1_ecbbbe32:
 
     # "I had been daydreaming, so I didn't notice that she was talking to me."
-    "I had been daydreaming, so I didn't notice that she was talking to me."
+    "Stavo sognando ad occhi aperti, quindi non avevo notato che stava parlando con me."
 
 # game/dialogs.rpy:156
 translate italian scene1_d86baf24:
 
     # "She started to blush."
-    "She started to blush."
+    "Ha cominciato ad arossire."
 
 # game/dialogs.rpy:158
 translate italian scene1_0408e4ff:
 
     # s "Oh... I'm sorry! I didn't mean to surprise you!"
-    s "Oh... I'm sorry! I didn't mean to surprise you!"
+    s "Oh... Scusami! Non intendevo prenderti alla sprovvista!"
 
 # game/dialogs.rpy:159
 translate italian scene1_004a1338:
 
     # "She's just so adorable! I smiled to myself."
-    "She's just so adorable! I smiled to myself."
+    "È semplicemente adorabile! Ho sorriso con me stesso."
 
 # game/dialogs.rpy:160
 translate italian scene1_02ac9e9f:
 
     # hero "You're not!{p}Actually, I just arrived last Friday. My family just moved here from Tokyo."
-    hero "You're not!{p}Actually, I just arrived last Friday. My family just moved here from Tokyo."
+    hero "Non lo stai facendo!{p}Attualmente, sono arrivato solo venerdì scorso. La mia famiglia si è appena trasferita da Tokyo."
 
 # game/dialogs.rpy:162
 translate italian scene1_b0c354bc:
 
     # s "You're from Tokyo?"
-    s "You're from Tokyo?"
+    s "Sei di Tokyo?"
 
 # game/dialogs.rpy:163
 translate italian scene1_7273bcfc:
 
     # s "It seems like a wonderful city! I wish I could visit it someday!"
-    s "It seems like a wonderful city! I wish I could visit it someday!"
+    s "Sembra essere una città meravigliosa! Spero di poterla visitare un giorno!"
 
 # game/dialogs.rpy:164
 translate italian scene1_e87c5166:
 
     # hero "I bet... I noticed there are fewer distractions here than in Tokyo."
-    hero "I bet... I noticed there are fewer distractions here than in Tokyo."
+    hero "Ci scommetto... Ho notato che ci sono meno svaghi qui rispetto a Tokyo."
 
 # game/dialogs.rpy:166
 translate italian scene1_6ab8e3af:
 
     # s "Mmhmm, it's true. The village is kinda quiet; so there's usually nothing to do..."
-    s "Mmhmm, it's true. The village is kinda quiet; so there's usually nothing to do..."
+    s "Mmhmm, è vero. Il villaggio è abbastanza tranquillo; Quindi normalmente non c'è niente da fare..."
 
 # game/dialogs.rpy:167
 translate italian scene1_f5cb34b6:
 
     # s "When we want to enjoy ourselves, we usually go to the nearest city."
-    s "When we want to enjoy ourselves, we usually go to the nearest city."
+    s "Quando vogliamo divertirci, normalmente andiamo nella città più vicina."
 
 # game/dialogs.rpy:169
 translate italian scene1_f471c6c0:
 
     # s "It's only a short train ride away, so it's okay!"
-    s "It's only a short train ride away, so it's okay!"
+    s "È solamente ad un corto viaggio di treno di distanza, quindi è okay!"
 
 # game/dialogs.rpy:170
 translate italian scene1_6136ebba:
 
     # hero "There's a train that takes you to the city nearby!?"
-    hero "There's a train that takes you to the city nearby!?"
+    hero "C'è un treno che ti porta alla città vicina!?"
 
 # game/dialogs.rpy:171
 translate italian scene1_bbdac77d:
 
     # hero "I hope there's a lot of stuff to do there."
-    hero "I hope there's a lot of stuff to do there."
+    hero "Spero ci siano molte cose da fare là."
 
 # game/dialogs.rpy:172
 translate italian scene1_aa2bb7ad:
 
     # s "There is, don't worry! There are fast food restaurants, shops, arcades..."
-    s "There is, don't worry! There are fast food restaurants, shops, arcades..."
+    s "Ci sono, non ti preoccupare! Ci sono fast food, negozi, sale giochi..."
 
 # game/dialogs.rpy:173
 translate italian scene1_cd44299c:
 
     # hero "You like arcade games?"
-    hero "You like arcade games?"
+    hero "ti piacciono i videogiochi delle sale giochi?"
 
 # game/dialogs.rpy:175
 translate italian scene1_69578672:
 
     # s "Very much so!"
-    s "Very much so!"
+    s "Tantissimo!"
 
 # game/dialogs.rpy:176
 translate italian scene1_13bf5fa0:
 
     # s "I'm especially a fan of music and rhythm games, but I enjoy shooting games too!"
-    s "I'm especially a fan of music and rhythm games, but I enjoy shooting games too!"
+    s "Sono specialmente una fan dei videogiochi di musica e ritmo, ma mi diverto anche con gli sparatutto!"
 
 # game/dialogs.rpy:177
 translate italian scene1_0fef1f71:
 
     # hero "Shooting games?"
-    hero "Shooting games?"
+    hero "Sparatutto?"
 
 # game/dialogs.rpy:178
 translate italian scene1_ad5c53dd:
 
     # "Wow... I couldn't imagine such a cute and timid girl shooting zombies or soldiers in an arcade game..."
-    "Wow... I couldn't imagine such a cute and timid girl shooting zombies or soldiers in an arcade game..."
+    "Wow... Non riesco ad immaginare una ragazza così carina e timida a sparare zombi o ai soldati in un videogioco da sala giochi..."
 
 # game/dialogs.rpy:179
 translate italian scene1_45a2a82d:
 
     # hero "By the way, what grade are you in?"
-    hero "By the way, what grade are you in?"
+    hero "A proposito, in che classe sei?"
 
 # game/dialogs.rpy:181
 translate italian scene1_68018eef:
 
     # s "I'm in the second section."
-    s "I'm in the second section."
+    s "Sono nella seconda sezione."
 
 # game/dialogs.rpy:182
 translate italian scene1_4c52535b:
 
     # hero "Uh...Second section?"
-    hero "Uh...Second section?"
+    hero "Uh...Seconda sezione?"
 
 # game/dialogs.rpy:183
 translate italian scene1_3b1fd997:
 
     # s "You see, our school is the only school in the village."
-    s "You see, our school is the only school in the village."
+    s "Vedi, la nostra scuola è la unica nel villaggio."
 
 # game/dialogs.rpy:184
 translate italian scene1_7e47a0e7:
